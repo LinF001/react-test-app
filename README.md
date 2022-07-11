@@ -12,3 +12,5 @@
 
 5. to add ios app: `ionic cap add ios`, then start the x-code run the app `ionic cap open ios`
    then setup the iphone device simulator to run the app. 
+
+6. Firebase deploy has been enable, this is the hosting site: `https://testweb-ac9b8.web.app` 
